@@ -261,4 +261,4 @@ client.on("message", async message => {
 
 });
 
-client.login("process.env.TOKEN");
+client.login("NDE4NDc5NDc3NjYwODQ0MDMz.DXlKow.BSBmC3TsYjWQZU37o1nokJWjbkM");
